@@ -1,0 +1,2 @@
+# PokerCombinationDetector
+C# learning steps
